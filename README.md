@@ -1,5 +1,4 @@
 # CF_FuzzyLogic
-Praktikum_AI materi CF FL
 CF:
 Ubah nilai CF gejala dan amati perubahan hasil
 Tambahkan 5 gejala baru seperti dengan nilai CF.
